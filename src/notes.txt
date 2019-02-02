@@ -13,3 +13,7 @@ inside the component we get the props using this.props.nameofprops
 states: are objects that live whitin a component, its job
 is to keep track of changing data whithin a component
 they contain key/value pairs
+
+
+if a component doesnt use the state, use a stateless component 
+this keyword cannot be used in a stateless component return function
