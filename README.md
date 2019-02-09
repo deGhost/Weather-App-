@@ -6,3 +6,5 @@ Using ReactJs and weather api, the user input the city and the country and gets 
 - learning ReactJs while practcing
 - learning to use APIs with Javascript
 - Building user friendly interfaces with ReactJs
+
+- [] taski
