@@ -1,4 +1,4 @@
-## ReactJs Projects N°1
+## ReactJs Project
 # Weather App
 #About the app
 Using ReactJs and weather api, the user input the city and the country and gets weather details.
